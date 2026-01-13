@@ -1,0 +1,13 @@
+
+{
+  "name": "PoseCraft",
+  "short_name": "PoseCraft",
+  "start_url": "/posemyart-like/index.html",
+  "display": "standalone",
+  "background_color": "#111113",
+  "theme_color": "#ff45a1",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
